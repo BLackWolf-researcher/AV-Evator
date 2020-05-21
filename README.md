@@ -10,7 +10,7 @@ When executing Evator.exe drops a malware that is detected by all the AVs then i
 
 #  in a nutshell this is what it does
 
-- drop detected malware
+- drop detected malware doc.exe
 
 - wait 30 seconds
 
